@@ -1,22 +1,29 @@
-<div align="center">
+```yaml
+# amish@github:~$ whoami
 
-# Amish Kunal
+name:       Amish Kunal
 
-### Software Engineering · Applied AI · Backend Systems
+education:  CS @ UC Irvine
+            intelligent systems concentration
 
-Computer Science at UC Irvine, Class of 2027
+experience:
+  current:  Software Engineer Intern, AI @ Tiny Miracles
+            → conversational AI + backend systems
+            
+  previous: Machine Learning Engineer Intern @ Kapture CX
+            → LangGraph NL-to-SQL agent
 
-[LinkedIn](https://www.linkedin.com/in/amishkunal)
+focus:
+  - applied-ai
+  - backend-systems
+  - agentic-systems
+```
 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/amishkunal">linkedin ↗</a>
+</p>
 
 ---
-
-### About
-
-- Software Engineer Intern, AI at **Tiny Miracles**
-- Previously Machine Learning Engineer Intern at **Kapture CX**
-- Interested in building reliable AI products, backend infrastructure, and developer-facing systems
 
 ### Featured Projects
 
