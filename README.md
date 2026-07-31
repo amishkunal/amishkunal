@@ -7,7 +7,7 @@ education:  CS @ UC Irvine
             intelligent systems concentration
 
 experience:
-  current:  Software Engineer Intern, AI @ Tiny Miracles
+  current:  Software Engineer Intern @ Tiny Miracles
             → conversational AI + backend systems
             
   previous: Machine Learning Engineer Intern @ Kapture CX
